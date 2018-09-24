@@ -1,0 +1,150 @@
+Curated List of democracy-related resources - 
+
+= Contents =
+   - [[#Philosophy|Philosophy]]
+      - [[#Philosophy#Seminal contributions to modern democracy|Seminal contributions to modern democracy]]
+   - [[#Techniques/Technology|Techniques/Technology]]
+      - [[#Techniques/Technology#Software|Software]]
+         - [[#Techniques/Technology#Software#Software-Development|Software-Development]]
+            - [[#Techniques/Technology#Software#Software-Development#related awesome-sites on github|related awesome-sites on github]]
+            - [[#Techniques/Technology#Software#Software-Development#possibly related Tags/Topics on github|possibly related Tags/Topics on github]]
+   - [[#Known Democracy Bugs|Known Democracy Bugs]]
+      - [[#Known Democracy Bugs#actual empirical bugs|actual empirical bugs]]
+   - [[#License|License]]
+   - [[#TODO|TODO]]
+
+= Philosophy =
+
+Democracy makes our work and living here possible.
+It is the ASCII, the code big parts of the world work on.
+
+It is about cooperation and colaboration.
+
+But it hasn't existed always, nor will it.
+
+And it is far from being perfect - it demands development to avoid beeing outdated and deprecated.
+
+== Seminal contributions to modern democracy ==
+...rebasing
+
+| X | author                                                               | key concepts        | original               | source-code  / other ressources                                                        | timestamp | X | X |
+|---|----------------------------------------------------------------------|---------------------|------------------------|----------------------------------------------------------------------------------------|-----------|---|---|
+|   |                                                                      | equality            | "égalité"              |                                                                                        |           |   |   |
+|   |                                                                      | free expression     | "liberté d'expression" |                                                                                        |           |   |   |
+|   |                                                                      |                     |                        |                                                                                        |           |   |   |
+|   | [[https://en.wikipedia.org/wiki/Jean-Jacques_Burlamaqui|Burlamaqui]] | checks and balances |                        |                                                                                        | 1747      |   |   |
+|   |                                                                      |                     |                        |                                                                                        |           |   |   |
+|   | [[https://en.wikipedia.org/wiki/Montesquieu|Montesquieu]]            | republicanism       | "la république"        |                                                                                        | 1748      |   |   |
+|   |                                                                      | control of power    |                        |                                                                                        |           |   |   |
+|   | [[https://en.wikipedia.org/wiki/Jean-Jacques_Rousseaui|Rousseau]]    | general will        | "volonté générale"     | [[http://www.ibiblio.org/ml/libri/r/RousseauJJ_ContratSocial_p.pdf|ContratSocial_pdf]] | 1762      |   |   |
+|   |                                                                      |                     |                        |                                                                                        |           |   |   |
+|   | [[https://en.wikipedia.org/wiki/Voltaire|Voltaire]]                  |                     |                        |                                                                                        | 1765      |   |   |
+|   |                                                                      |                     |                        |                                                                                        |           |   |   |
+|   | [[https://en.wikipedia.org/wiki/Alexis_de_Tocqueville|Tocqueville]]  |                     |                        |                                                                                        | 1838      |   |   |
+
+
+= Techniques/Technology =
+%% == Assembly ==
+%% === Representative Assembly ===
+%% ===== Parliament =====
+== Software ==
+=== Software-Development ===
+
+[[https://humanetech.com/|humanetech]]
+
+
+  
+
+| X | [[https://github.com|github]]                                                 | project url                                                 | topic                | activity                                                            | productive |               | Stars                                                           |
+|---|-------------------------------------------------------------------------------|-------------------------------------------------------------|----------------------|---------------------------------------------------------------------|------------|---------------|-----------------------------------------------------------------|
+|   | [[https://github.com/DemocracyOS/democracyos|democracyos]]                    |                                                             |                      |                                                                     |            |               | {{file:../images/badges_static/stars_more_1K_green.svg}}        |
+|   |                                                                               |                                                             |                      |                                                                     |            |               |                                                                 |
+|   | [[https://github.com/consul/consul|consul]]                                   |                                                             |                      | {{file:../images/badges_static/activity_less_week_brightgreen.svg}} |            |               | {{file:../images/badges_static/stars_more_500_yellowgreen.svg}} |
+|   |                                                                               |                                                             |                      |                                                                     |            |               |                                                                 |
+|   | [[https://github.com/sinak/democracy.io|democracy io]]                        |                                                             |                      |                                                                     |            |               |                                                                 |
+|   |                                                                               |                                                             |                      |                                                                     |            |               |                                                                 |
+|   | [[https://github.com/civiwiki|civiwiki]]                                      | [[https://www.civiwiki.org/|civiwiki]]                      | masscommunication    |                                                                     |            |               |                                                                 |
+|   |                                                                               |                                                             |                      |                                                                     |            |               |                                                                 |
+|   | [[https://github.com/openaustralia/publicwhip|publicwhip]]                    |                                                             | votation/            |                                                                     |            | international |                                                                 |
+|   |                                                                               |                                                             | results/             |                                                                     |            |               |                                                                 |
+|   |                                                                               |                                                             | control delegates    |                                                                     |            |               |                                                                 |
+|   |                                                                               |                                                             |                      |                                                                     |            |               |                                                                 |
+|   | [[https://github.com/roschaefer/rundfunk-mitbestimmen|rundfunk mitbestimmen]] | [[https://rundfunk-mitbestimmen.de/|rundfunk mitbestimmen]] | votation/            | {{file:../images/badges_static/activity_less_week_brightgreen.svg}} |            |               |                                                                 |
+|   |                                                                               |                                                             | results              |                                                                     |            |               |                                                                 |
+|   |                                                                               |                                                             | participation        |                                                                     |            |               |                                                                 |
+|   | [[https://github.com/demokratie-live/democracy-client|democracy client]]      |                                                             |                      |                                                                     |            |               |                                                                 |
+|   |                                                                               |                                                             |                      |                                                                     |            |               |                                                                 |
+|   | [[https://github.com/mysociety/alaveteli|alaveteli]]                          | http://alaveteli.org                                        | control jurisdiction | {{file:../images/badges_static/activity_less_week_brightgreen.svg}} |            |               |                                                                 |
+|   |                                                                               |                                                             |                      |                                                                     |            |               |                                                                 |
+|   | [[https://github.com/decidim/decidim|decidim]]                                |                                                             | community/           | {{file:../images/badges_static/activity_less_week_brightgreen.svg}} |            |               |                                                                 |
+|   |                                                                               |                                                             | government           |                                                                     |            |               |                                                                 |
+
+%% |   | [[https://github.com/DemocracyOS/democracyos|democracyos]]                    |                                                             |                      |          |            |               | 1,6 K |
+%% |   |                                                                               |                                                             |                      |          |            |               |       |
+%% |   |                                                                               | https://5calls.org/                                         |                      |          |            |               |       |
+%% |   |                                                                               |                                                             |                      |          |            |               |       |
+
+%% https://github.com/EFForg/privacybadger
+
+==== related awesome-sites on github ====
+
+- [[https://github.com/engagingspaces/awesome-humane-tech|awesome humane tech]]
+- [[https://github.com/learn-anything/humans|humans]]
+- [[https://github.com/matiassingers/awesome-readme|awesome readme]]
+- [[https://github.com/tanyuan/awesome-hci|awesome hci]]
+- [[https://github.com/EticaAI/awesome-humanitarian-foss|awesome humanitarian foss]]
+
+==== possibly related Tags/Topics on github ====
+
+- [[https://github.com/topics/citizens|citizens]]
+- [[https://github.com/topics/civic-tech|civic tech]]
+- [[https://github.com/topics/decision-making|decision making]]
+- [[https://github.com/topics/deliberation|deliberation]]
+- [[https://github.com/topics/democracy-measures|democracy measures]]
+- [[https://github.com/topics/democracy|democracy]]
+- [[https://github.com/topics/e-participation|e-participation]]
+- [[https://github.com/topics/liquid-democracy|liquid democracy]]
+- [[https://github.com/topics/municipalities|municipalities]]
+- [[https://github.com/topics/open-data|open data]]
+- [[https://github.com/topics/parliamentary-data|parliamentary data]]
+- [[https://github.com/topics/parliamentary-monitoring|parliamentary monitoring]]
+- [[https://github.com/topics/political-science|political science]]
+- [[https://github.com/topics/politics|politics]]
+- [[https://github.com/topics/poll|poll]]
+- [[https://github.com/topics/popular-proposals|popular proposals]]
+- [[https://github.com/topics/right-to-know|right to know]]
+- [[https://github.com/topics/social|social]]
+- [[https://github.com/topics/vote|vote]]
+- [[https://github.com/topics/voting|voting]]
+
+
+= Known Democracy Bugs =
+== actual empirical bugs ==
+- lack of participation
+   - due to:
+      - lack of motivation
+         - due to:
+            - lack of knowledge (education)
+            - lack of rights
+            - lack of interest
+            - lack of realistic offers
+            - lack of real posibilities:
+               - buerocracy
+               - digital gap
+
+= License =
+
+https://creativecommons.org/publicdomain/zero/1.0/
+
+= TODO =
+- [ ] Content
+   - [ ] Democracy Ecosystem
+   - [ ] Layers
+      - [ ] Letterpresss / Refomation : Mediaboost : 
+- [ ] Layout
+   - [ ] Badges
+   - [ ] Images
+%% [![GitHub issues](https://img.shields.io/github/issues/nodejs/docker-node.svg "GitHub issues")](https://github.com/nodejs/docker-node)
+%% [![GitHub stars](https://img.shields.io/github/stars/nodejs/docker-node.svg "GitHub stars")](https://github.com/nodejs/docker-node)
+
+%% [![dockeri.co](http://dockeri.co/image/_/node)](https://registry.hub.docker.com/_/node/)
