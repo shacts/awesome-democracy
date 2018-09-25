@@ -20,8 +20,12 @@ Curated List of democracy-related resources -
 
 # Philosophy
 
-Democracy makes our work and living here possible. It is the ASCII, the
-code big parts of the world work on.
+Democracy makes our work and living here possible.
+
+It is the ASCII, the code big parts of the worlds social, political and
+cultural processes are based upon.
+
+It is the fundamental OS.
 
 It is about cooperation and colaboration.
 
@@ -34,37 +38,43 @@ beeing outdated and deprecated.
 
 ...rebasing
 
-[oll libertyfund
-org](http://oll.libertyfund.org)
+[oll libertyfund org](http://oll.libertyfund.org)
 
-| X | idea / author                                                       | key concepts                    | source-code / other ressources                                                                                                                                                                                       | timestamp/commit | X | X |
-| - | ------------------------------------------------------------------- | ------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- | - | - |
-|   | [Equality](https://en.wikipedia.org/wiki/Equality)                  | social, gender, racial equality |                                                                                                                                                                                                                      |                  |   |   |
-|   |                                                                     |                                 |                                                                                                                                                                                                                      |                  |   |   |
-|   | [Liberty](https://en.wikipedia.org/wiki/Liberty)                    | free will                       |                                                                                                                                                                                                                      |                  |   |   |
-|   |                                                                     | free expression                 |                                                                                                                                                                                                                      |                  |   |   |
-|   |                                                                     |                                 |                                                                                                                                                                                                                      |                  |   |   |
-|   | [Magna\_Carta](https://en.wikipedia.org/wiki/Magna_Carta)           |                                 | [Magna\_Carta\_jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Magna_Carta_%28British_Library_Cotton_MS_Augustus_II.106%29.jpg/290px-Magna_Carta_%28British_Library_Cotton_MS_Augustus_II.106%29.jpg) | 1215             |   |   |
-|   |                                                                     |                                 |                                                                                                                                                                                                                      |                  |   |   |
-|   | [John\_Locke](https://en.wikipedia.org/wiki/John_Locke)             | liberalism                      | [two treatises of civil government](http://oll.libertyfund.org/titles/locke-the-two-treatises-of-civil-government-hollis-ed)                                                                                         | 1689             |   |   |
-|   |                                                                     |                                 |                                                                                                                                                                                                                      |                  |   |   |
-|   | [Burlamaqui](https://en.wikipedia.org/wiki/Jean-Jacques_Burlamaqui) | checks and balances             | [principles of natural and politic law](http://oll.libertyfund.org/titles/burlamaqui-the-principles-of-natural-and-politic-law)                                                                                      | 1747             |   |   |
-|   |                                                                     |                                 |                                                                                                                                                                                                                      |                  |   |   |
-|   | [Rousseau](https://en.wikipedia.org/wiki/Jean-Jacques_Rousseaui)    | general will                    | [ContratSocial\_pdf](http://www.ibiblio.org/ml/libri/r/RousseauJJ_ContratSocial_p.pdf)                                                                                                                               | 1762             |   |   |
-|   |                                                                     |                                 |                                                                                                                                                                                                                      |                  |   |   |
-|   | [Voltaire](https://en.wikipedia.org/wiki/Voltaire)                  |                                 | [philosophical letters](http://oll.libertyfund.org/titles/voltaire-the-works-of-voltaire-vol-xix-philosophical-letters)                                                                                              | 1765             |   |   |
-|   |                                                                     |                                 |                                                                                                                                                                                                                      |                  |   |   |
-|   | [Montesquieu](https://en.wikipedia.org/wiki/Montesquieu)            | republicanism                   | [complete works](http://oll.libertyfund.org/titles/montesquieu-complete-works-4-vols-1777)                                                                                                                           | 1777             |   |   |
-|   |                                                                     | separation of power             |                                                                                                                                                                                                                      |                  |   |   |
-|   | [Tocqueville](https://en.wikipedia.org/wiki/Alexis_de_Tocqueville)  |                                 | [de la democratie en amerique](http://oll.libertyfund.org/titles/tocqueville-de-la-democratie-en-amerique-4-vols-12th-ed-1848)                                                                                       | 1848             |   |   |
+| X | idea / author                                                             | key concepts                    | source-code / other ressources                                                                                                  | timestamp/commit | X | X |
+| - | ------------------------------------------------------------------------- | ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- | ---------------- | - | - |
+|   | [Equality](https://en.wikipedia.org/wiki/Equality)                        | social, gender, racial equality |                                                                                                                                 |                  |   |   |
+|   |                                                                           |                                 |                                                                                                                                 |                  |   |   |
+|   | [Liberty](https://en.wikipedia.org/wiki/Liberty)                          | free will                       |                                                                                                                                 |                  |   |   |
+|   |                                                                           | free expression                 |                                                                                                                                 |                  |   |   |
+|   | [Pluralism](https://en.wikipedia.org/wiki/Pluralism_\(political_theory\)) |                                 |                                                                                                                                 |                  |   |   |
+|   |                                                                           |                                 |                                                                                                                                 |                  |   |   |
+|   | [John\_Locke](https://en.wikipedia.org/wiki/John_Locke)                   | liberalism                      | [two treatises of civil government](http://oll.libertyfund.org/titles/locke-the-two-treatises-of-civil-government-hollis-ed)    | 1689             |   |   |
+|   |                                                                           |                                 |                                                                                                                                 |                  |   |   |
+|   | [Burlamaqui](https://en.wikipedia.org/wiki/Jean-Jacques_Burlamaqui)       | checks and balances             | [principles of natural and politic law](http://oll.libertyfund.org/titles/burlamaqui-the-principles-of-natural-and-politic-law) | 1747             |   |   |
+|   |                                                                           |                                 |                                                                                                                                 |                  |   |   |
+|   | [Rousseau](https://en.wikipedia.org/wiki/Jean-Jacques_Rousseaui)          | general will                    | [ContratSocial\_pdf](http://www.ibiblio.org/ml/libri/r/RousseauJJ_ContratSocial_p.pdf)                                          | 1762             |   |   |
+|   |                                                                           |                                 |                                                                                                                                 |                  |   |   |
+|   | [Voltaire](https://en.wikipedia.org/wiki/Voltaire)                        |                                 | [philosophical letters](http://oll.libertyfund.org/titles/voltaire-the-works-of-voltaire-vol-xix-philosophical-letters)         | 1765             |   |   |
+|   |                                                                           |                                 |                                                                                                                                 |                  |   |   |
+|   | [Montesquieu](https://en.wikipedia.org/wiki/Montesquieu)                  | republicanism                   | [complete works](http://oll.libertyfund.org/titles/montesquieu-complete-works-4-vols-1777)                                      | 1777             |   |   |
+|   |                                                                           | separation of power             |                                                                                                                                 |                  |   |   |
+|   | [Tocqueville](https://en.wikipedia.org/wiki/Alexis_de_Tocqueville)        |                                 | [de la democratie en amerique](http://oll.libertyfund.org/titles/tocqueville-de-la-democratie-en-amerique-4-vols-12th-ed-1848)  | 1848             |   |   |
 
 # Techniques/Technology
 
+## Monitoring
+
+  - [internationaldemocracywatch](http://www.internationaldemocracywatch.org)
+  - [statewatch](http://www.statewatch.org/)
+  - [transparency](https://www.transparency.org/)
+
 ## Software
+
+  - [Linux](https://en.wikipedia.org/wiki/Linux)
 
 ### Software-Development
 
-[humanetech](https://humanetech.com/)
+  - [humanetech](https://humanetech.com/)
 
 | X  | [github](https://github.com)                                                 | project url                                                | topic                | activity / last commit                                                                                      | Stars                                                                                                       |
 | -- | ---------------------------------------------------------------------------- | ---------------------------------------------------------- | -------------------- | ----------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
@@ -89,6 +99,7 @@ org](http://oll.libertyfund.org)
 |    |                                                                              |                                                            |                      |                                                                                                             |                                                                                                             |
 | 10 | [decidim](https://github.com/decidim/decidim)                                |                                                            | community/           | ![last commit](https://img.shields.io/github/last-commit/decidim/decidim.svg?style=social)                  | ![stars](https://img.shields.io/github/stars/decidim/decidim.svg?style=social&label=Stars)                  |
 |    |                                                                              |                                                            | government           |                                                                                                             |                                                                                                             |
+|    | recent layers: transparency                                                  |                                                            |                      |                                                                                                             |                                                                                                             |
 
 #### related awesome-sites on github
 
@@ -126,6 +137,23 @@ org](http://oll.libertyfund.org)
 
 # Known Democracy Bugs
 
+## sistemic bugs
+
+  - monarchy
+
+  - constitutional monarchy
+
+  - dictatorship
+
+  - authoritarism
+    
+      - due to inactivity/passivness
+
+  - authoritarism -\> mentality -\> beliefs -\> education
+
+  - overrated importance of property
+
+  - 
 ## actual empirical bugs
 
   - lack of participation
@@ -136,12 +164,20 @@ org](http://oll.libertyfund.org)
               - governmental (jurisdictional) and social discrimination
                   - lack of knowledge (education)
                   - lack of knowledge (information)
+                  - lack of knowledge (communication)
                   - lack of interest -\> motivation
-                  - lack of responsability -\> education
-                  - lack of realistic offers
-                  - lack of real possibilities:
-                      - burocracy
-                      - digital gap
+                  - lack of institutional responsability -\> education
+                  - lack of individual responsability -\> education
+                  - lack of realistic (well-communicated)
+                    offers/projects
+                  - lack of access
+              - due to:
+          - burocracy
+          - digital gap
+  - corruption
+      - power abuse
+      - abundance -\> property
+  - ecodestruction
 
 # License
 
@@ -152,7 +188,7 @@ org](http://oll.libertyfund.org)
   - <span class="done0"></span>Content
       - <span class="done0"></span>Democracy Ecosystem
       - <span class="done0"></span>Layers
-          - <span class="done0"></span>Letterpresss / Refomation :
+          - <span class="done0"></span>Letterpress / Refomation :
             Mediaboost :
   - <span class="done2"></span>Layout
       - <span class="done4"></span>Badges
