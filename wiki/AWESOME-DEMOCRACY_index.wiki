@@ -32,29 +32,42 @@ And it is far from being perfect - it demands development to avoid beeing outdat
 == Seminal contributions to modern democracy ==
 ...rebasing
 
-[[http://oll.libertyfund.org|oll libertyfund org]]
+- [[http://oll.libertyfund.org|oll libertyfund org]]
 
-| X | idea / author                                                            | key concepts                    | source-code  / other ressources                                                                                                                                                                                     | timestamp/commit | X | X |
-|---|--------------------------------------------------------------------------|---------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------|---|---|
-|   | [[https://en.wikipedia.org/wiki/Equality|Equality]]                      | social, gender, racial equality |                                                                                                                                                                                                                     |                  |   |   |
-|   |                                                                          |                                 |                                                                                                                                                                                                                     |                  |   |   |
-|   | [[https://en.wikipedia.org/wiki/Liberty|Liberty]]                        | free will                       |                                                                                                                                                                                                                     |                  |   |   |
-|   |                                                                          | free expression                 |                                                                                                                                                                                                                     |                  |   |   |
-|   | [[https://en.wikipedia.org/wiki/Pluralism_(political_theory)|Pluralism]] |                                 |                                                                                                                                                                                                                     |                  |   |   |
-|   |                                                                          |                                 |                                                                                                                                                                                                                     |                  |   |   |
-|   | [[https://en.wikipedia.org/wiki/John_Locke|John_Locke]]                  | liberalism                      | [[http://oll.libertyfund.org/titles/locke-the-two-treatises-of-civil-government-hollis-ed|two treatises of civil government]]                                                                                       | 1689             |   |   |
-|   |                                                                          |                                 |                                                                                                                                                                                                                     |                  |   |   |
-|   | [[https://en.wikipedia.org/wiki/Jean-Jacques_Burlamaqui|Burlamaqui]]     | checks and balances             | [[http://oll.libertyfund.org/titles/burlamaqui-the-principles-of-natural-and-politic-law|principles of natural and politic law]]                                                                                    | 1747             |   |   |
-|   |                                                                          |                                 |                                                                                                                                                                                                                     |                  |   |   |
-|   | [[https://en.wikipedia.org/wiki/Jean-Jacques_Rousseaui|Rousseau]]        | general will                    | [[http://www.ibiblio.org/ml/libri/r/RousseauJJ_ContratSocial_p.pdf|ContratSocial_pdf]]                                                                                                                              | 1762             |   |   |
-|   |                                                                          |                                 |                                                                                                                                                                                                                     |                  |   |   |
-|   | [[https://en.wikipedia.org/wiki/Voltaire|Voltaire]]                      |                                 | [[http://oll.libertyfund.org/titles/voltaire-the-works-of-voltaire-vol-xix-philosophical-letters|philosophical letters]]                                                                                            | 1765             |   |   |
-|   |                                                                          |                                 |                                                                                                                                                                                                                     |                  |   |   |
-|   | [[https://en.wikipedia.org/wiki/Montesquieu|Montesquieu]]                | republicanism                   | [[http://oll.libertyfund.org/titles/montesquieu-complete-works-4-vols-1777|complete works]]                                                                                                                         | 1777             |   |   |
-|   |                                                                          | separation of power             |                                                                                                                                                                                                                     |                  |   |   |
-|   | [[https://en.wikipedia.org/wiki/Alexis_de_Tocqueville|Tocqueville]]      |                                 | [[http://oll.libertyfund.org/titles/tocqueville-de-la-democratie-en-amerique-4-vols-12th-ed-1848|de la democratie en amerique]]                                                                                     | 1848             |   |   |
-
-
+| X | idea / author                                                               | key concepts                    | source-code  / other ressources                                                                                                  | timestamp/commit |
+|---|-----------------------------------------------------------------------------|---------------------------------|----------------------------------------------------------------------------------------------------------------------------------|------------------|
+|   | [[https://en.wikipedia.org/wiki/Equality|Equality]]                         | social, gender, racial equality |                                                                                                                                  |                  |
+|   |                                                                             |                                 |                                                                                                                                  |                  |
+|   | [[https://en.wikipedia.org/wiki/Liberty|Liberty]]                           | free will                       |                                                                                                                                  |                  |
+|   |                                                                             | free expression                 |                                                                                                                                  |                  |
+|   | [[https://en.wikipedia.org/wiki/Pluralism_(political_theory)|Pluralism]]    |                                 |                                                                                                                                  |                  |
+|   |                                                                             |                                 |                                                                                                                                  |                  |
+|   | [[https://en.wikipedia.org/wiki/Magna_Carta|Magna_Carta]]                   | limiting feudality              | [[https://en.wikipedia.org/wiki/File:Magna_Carta_(British_Library_Cotton_MS_Augustus_II.106).jpg|jpg]]                           | 1215             |
+|   |                                                                             |                                 |                                                                                                                                  |                  |
+|   | [[https://en.wikipedia.org/wiki/Letterpress_printing|Letterpress_printing]] | technological development:      |                                                                                                                                  | 1440             |
+|   |                                                                             | communication                   |                                                                                                                                  |                  |
+|   |                                                                             |                                 |                                                                                                                                  |                  |
+|   | [[https://en.wikipedia.org/wiki/Reformation|Protestant Reformation]]        | limiting catholicism            |                                                                                                                                  | 1517             |
+|   |                                                                             |                                 |                                                                                                                                  |                  |
+|   | [[https://en.wikipedia.org/wiki/John_Locke|John_Locke]]                     | liberalism                      | [[http://oll.libertyfund.org/titles/locke-the-two-treatises-of-civil-government-hollis-ed|two treatises of civil government]]    | 1689             |
+|   |                                                                             |                                 |                                                                                                                                  |                  |
+|   | [[https://en.wikipedia.org/wiki/Jean-Jacques_Burlamaqui|Burlamaqui]]        | checks and balances             | [[http://oll.libertyfund.org/titles/burlamaqui-the-principles-of-natural-and-politic-law|principles of natural and politic law]] | 1747             |
+|   |                                                                             |                                 |                                                                                                                                  |                  |
+|   | [[https://en.wikipedia.org/wiki/Jean-Jacques_Rousseaui|Rousseau]]           | general will                    | [[http://www.ibiblio.org/ml/libri/r/RousseauJJ_ContratSocial_p.pdf|ContratSocial_pdf]]                                           | 1762             |
+|   |                                                                             |                                 |                                                                                                                                  |                  |
+|   | [[https://en.wikipedia.org/wiki/Voltaire|Voltaire]]                         |                                 | [[http://oll.libertyfund.org/titles/voltaire-the-works-of-voltaire-vol-xix-philosophical-letters|philosophical letters]]         | 1765             |
+|   |                                                                             |                                 |                                                                                                                                  |                  |
+|   | [[https://en.wikipedia.org/wiki/Montesquieu|Montesquieu]]                   | republicanism                   | [[http://oll.libertyfund.org/titles/montesquieu-complete-works-4-vols-1777|complete works]]                                      | 1777             |
+|   |                                                                             | separation of power             |                                                                                                                                  |                  |
+|   | [[https://en.wikipedia.org/wiki/Alexis_de_Tocqueville|Tocqueville]]         |                                 | [[http://oll.libertyfund.org/titles/tocqueville-de-la-democratie-en-amerique-4-vols-12th-ed-1848|de la democratie en amerique]]  | 1848             |
+|   |                                                                             |                                 |                                                                                                                                  |                  |
+|   |                                                                             |                                 |                                                                                                                                  |                  |
+|   | [[https://en.wikipedia.org/wiki/Internet|modern Internet]]                  | technological development:      |                                                                                                                                  | 1990             |
+|   |                                                                             | communication                   |                                                                                                                                  |                  |
+|   |                                                                             |                                 |                                                                                                                                  |                  |
+|   | [[https://en.wikipedia.org/wiki/Electronic_voting|electronic_voting]]       | technological development:      |                                                                                                                                  | 2004             |
+|   |                                                                             | communication                   |                                                                                                                                  |                  |
+                                                                                                 
 = Techniques/Technology =
 %% == Assembly ==
 %% === Representative Assembly ===
@@ -65,6 +78,7 @@ And it is far from being perfect - it demands development to avoid beeing outdat
 - [[https://www.transparency.org/|transparency]]
 
 == Software ==
+- [[https://en.wikipedia.org/wiki/Open-source_software|OpenSource]] / [[https://en.wikipedia.org/wiki/Free_and_open-source_software|Free_and_open source_software]]
 - [[https://en.wikipedia.org/wiki/Linux|Linux]]
 
 === Software-Development ===
@@ -93,7 +107,6 @@ And it is far from being perfect - it demands development to avoid beeing outdat
 |    |                                                                               |                                                             |                      |                                                                                                             |                                                                                                             |
 | 10 | [[https://github.com/decidim/decidim|decidim]]                                |                                                             | community/           | {{https://img.shields.io/github/last-commit/decidim/decidim.svg?style=social|last commit}}                  | {{https://img.shields.io/github/stars/decidim/decidim.svg?style=social&label=Stars|stars}}                  |
 |    |                                                                               |                                                             | government           |                                                                                                             |                                                                                                             |
-|    | recent layers: transparency                                                   |                                                             |                      |                                                                                                             |                                                                                                             |
 
 
 %% https://github.com/EFForg/privacybadger
@@ -114,6 +127,7 @@ And it is far from being perfect - it demands development to avoid beeing outdat
 - [[https://github.com/topics/deliberation|deliberation]]
 - [[https://github.com/topics/democracy-measures|democracy measures]]
 - [[https://github.com/topics/democracy|democracy]]
+- [[https://github.com/topics/democracynow|democracynow]]
 - [[https://github.com/topics/e-participation|e-participation]]
 - [[https://github.com/topics/liquid-democracy|liquid democracy]]
 - [[https://github.com/topics/municipalities|municipalities]]
@@ -140,7 +154,7 @@ And it is far from being perfect - it demands development to avoid beeing outdat
    - due to inactivity/passivness
 - authoritarism -> mentality -> beliefs -> education
 - overrated importance of property
-- 
+ 
 == actual empirical bugs ==
 - lack of participation
    - due to:
@@ -157,11 +171,17 @@ And it is far from being perfect - it demands development to avoid beeing outdat
             - lack of realistic (well-communicated) offers/projects
             - lack of access
 	       - due to:
-		  - burocracy
+		  - mismanaged burocracy
 		  - digital gap
+		  - abusive manipulation of information -> fake-news
+		  
+- economic inequality
 - corruption
    - power abuse
+      - authoritarism
+      - abusive manipulation of information
    - abundance -> property
+- religious fanatism
 - ecodestruction
 
 = License =
@@ -172,10 +192,15 @@ And it is far from being perfect - it demands development to avoid beeing outdat
 = TODO =
 - [ ] Content
    - [ ] Democracy Ecosystem
+      - [ ] Liberal Culture 
    - [ ] Layers
-      - [ ] Letterpress / Refomation : Mediaboost : 
-- [o] Layout
-   - [X] Badges
-   - [ ] Images
+   - [ ] License
+   - [ ] recent layers:
+      - [ ] transparency-debate
+
+
+%% - [o] Layout
+%%    - [X] Badges
+%%    - [ ] Images
 
 %% [![dockeri.co](http://dockeri.co/image/_/node)](https://registry.hub.docker.com/_/node/)

@@ -13,8 +13,7 @@ Curated List of democracy-related resources -
               - [possibly related Tags/Topics on
                 github](#Techniques/Technology#Software#Software-Development#possibly%20related%20Tags/Topics%20on%20github)
   - [Known Democracy Bugs](#Known%20Democracy%20Bugs)
-      - [actual empirical
-        bugs](#Known%20Democracy%20Bugs#actual%20empirical%20bugs)
+      - [actual empirical bugs](#Known%20Democracy%20Bugs#actual%20empirical%20bugs)
   - [License](#License)
   - [TODO](#TODO)
 
@@ -38,27 +37,41 @@ beeing outdated and deprecated.
 
 ...rebasing
 
-[oll libertyfund org](http://oll.libertyfund.org)
+  - [oll libertyfund org](http://oll.libertyfund.org)
 
-| X | idea / author                                                             | key concepts                    | source-code / other ressources                                                                                                  | timestamp/commit | X | X |
-| - | ------------------------------------------------------------------------- | ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- | ---------------- | - | - |
-|   | [Equality](https://en.wikipedia.org/wiki/Equality)                        | social, gender, racial equality |                                                                                                                                 |                  |   |   |
-|   |                                                                           |                                 |                                                                                                                                 |                  |   |   |
-|   | [Liberty](https://en.wikipedia.org/wiki/Liberty)                          | free will                       |                                                                                                                                 |                  |   |   |
-|   |                                                                           | free expression                 |                                                                                                                                 |                  |   |   |
-|   | [Pluralism](https://en.wikipedia.org/wiki/Pluralism_\(political_theory\)) |                                 |                                                                                                                                 |                  |   |   |
-|   |                                                                           |                                 |                                                                                                                                 |                  |   |   |
-|   | [John\_Locke](https://en.wikipedia.org/wiki/John_Locke)                   | liberalism                      | [two treatises of civil government](http://oll.libertyfund.org/titles/locke-the-two-treatises-of-civil-government-hollis-ed)    | 1689             |   |   |
-|   |                                                                           |                                 |                                                                                                                                 |                  |   |   |
-|   | [Burlamaqui](https://en.wikipedia.org/wiki/Jean-Jacques_Burlamaqui)       | checks and balances             | [principles of natural and politic law](http://oll.libertyfund.org/titles/burlamaqui-the-principles-of-natural-and-politic-law) | 1747             |   |   |
-|   |                                                                           |                                 |                                                                                                                                 |                  |   |   |
-|   | [Rousseau](https://en.wikipedia.org/wiki/Jean-Jacques_Rousseaui)          | general will                    | [ContratSocial\_pdf](http://www.ibiblio.org/ml/libri/r/RousseauJJ_ContratSocial_p.pdf)                                          | 1762             |   |   |
-|   |                                                                           |                                 |                                                                                                                                 |                  |   |   |
-|   | [Voltaire](https://en.wikipedia.org/wiki/Voltaire)                        |                                 | [philosophical letters](http://oll.libertyfund.org/titles/voltaire-the-works-of-voltaire-vol-xix-philosophical-letters)         | 1765             |   |   |
-|   |                                                                           |                                 |                                                                                                                                 |                  |   |   |
-|   | [Montesquieu](https://en.wikipedia.org/wiki/Montesquieu)                  | republicanism                   | [complete works](http://oll.libertyfund.org/titles/montesquieu-complete-works-4-vols-1777)                                      | 1777             |   |   |
-|   |                                                                           | separation of power             |                                                                                                                                 |                  |   |   |
-|   | [Tocqueville](https://en.wikipedia.org/wiki/Alexis_de_Tocqueville)        |                                 | [de la democratie en amerique](http://oll.libertyfund.org/titles/tocqueville-de-la-democratie-en-amerique-4-vols-12th-ed-1848)  | 1848             |   |   |
+| X | idea / author                                                               | key concepts                    | source-code / other ressources                                                                                                  | timestamp/commit |
+| - | --------------------------------------------------------------------------- | ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- | ---------------- |
+|   | [Equality](https://en.wikipedia.org/wiki/Equality)                          | social, gender, racial equality |                                                                                                                                 |                  |
+|   |                                                                             |                                 |                                                                                                                                 |                  |
+|   | [Liberty](https://en.wikipedia.org/wiki/Liberty)                            | free will                       |                                                                                                                                 |                  |
+|   |                                                                             | free expression                 |                                                                                                                                 |                  |
+|   | [Pluralism](https://en.wikipedia.org/wiki/Pluralism_\(political_theory\)    |                                 |                                                                                                                                 |                  |
+|   |                                                                             |                                 |                                                                                                                                 |                  |
+|   | [Magna\_Carta](https://en.wikipedia.org/wiki/Magna_Carta)                   | limiting feudality              | [jpg](https://en.wikipedia.org/wiki/File:Magna_Carta_\(British_Library_Cotton_MS_Augustus_II.106.jpg)                           | 1215             |
+|   |                                                                             |                                 |                                                                                                                                 |                  |
+|   | [Letterpress\_printing](https://en.wikipedia.org/wiki/Letterpress_printing) | technological development:      |                                                                                                                                 | 1440             |
+|   |                                                                             | communication                   |                                                                                                                                 |                  |
+|   |                                                                             |                                 |                                                                                                                                 |                  |
+|   | [Protestant Reformation](https://en.wikipedia.org/wiki/Reformation)         | limiting catholicism            |                                                                                                                                 | 1517             |
+|   |                                                                             |                                 |                                                                                                                                 |                  |
+|   | [John\_Locke](https://en.wikipedia.org/wiki/John_Locke)                     | liberalism                      | [two treatises of civil government](http://oll.libertyfund.org/titles/locke-the-two-treatises-of-civil-government-hollis-ed)    | 1689             |
+|   |                                                                             |                                 |                                                                                                                                 |                  |
+|   | [Burlamaqui](https://en.wikipedia.org/wiki/Jean-Jacques_Burlamaqui)         | checks and balances             | [principles of natural and politic law](http://oll.libertyfund.org/titles/burlamaqui-the-principles-of-natural-and-politic-law) | 1747             |
+|   |                                                                             |                                 |                                                                                                                                 |                  |
+|   | [Rousseau](https://en.wikipedia.org/wiki/Jean-Jacques_Rousseaui)            | general will                    | [ContratSocial\_pdf](http://www.ibiblio.org/ml/libri/r/RousseauJJ_ContratSocial_p.pdf)                                          | 1762             |
+|   |                                                                             |                                 |                                                                                                                                 |                  |
+|   | [Voltaire](https://en.wikipedia.org/wiki/Voltaire)                          |                                 | [philosophical letters](http://oll.libertyfund.org/titles/voltaire-the-works-of-voltaire-vol-xix-philosophical-letters)         | 1765             |
+|   |                                                                             |                                 |                                                                                                                                 |                  |
+|   | [Montesquieu](https://en.wikipedia.org/wiki/Montesquieu)                    | republicanism                   | [complete works](http://oll.libertyfund.org/titles/montesquieu-complete-works-4-vols-1777)                                      | 1777             |
+|   |                                                                             | separation of power             |                                                                                                                                 |                  |
+|   | [Tocqueville](https://en.wikipedia.org/wiki/Alexis_de_Tocqueville)          |                                 | [de la democratie en amerique](http://oll.libertyfund.org/titles/tocqueville-de-la-democratie-en-amerique-4-vols-12th-ed-1848)  | 1848             |
+|   |                                                                             |                                 |                                                                                                                                 |                  |
+|   |                                                                             |                                 |                                                                                                                                 |                  |
+|   | [modern Internet](https://en.wikipedia.org/wiki/Internet)                   | technological development:      |                                                                                                                                 | 1990             |
+|   |                                                                             | communication                   |                                                                                                                                 |                  |
+|   |                                                                             |                                 |                                                                                                                                 |                  |
+|   | [electronic\_voting](https://en.wikipedia.org/wiki/Electronic_voting)       | technological development:      |                                                                                                                                 | 2004             |
+|   |                                                                             | communication                   |                                                                                                                                 |                  |
 
 # Techniques/Technology
 
@@ -70,6 +83,7 @@ beeing outdated and deprecated.
 
 ## Software
 
+  - [OpenSource](https://en.wikipedia.org/wiki/Open-source_software) / [Free\_and\_open source\_software](https://en.wikipedia.org/wiki/Free_and_open-source_software)
   - [Linux](https://en.wikipedia.org/wiki/Linux)
 
 ### Software-Development
@@ -99,17 +113,14 @@ beeing outdated and deprecated.
 |    |                                                                              |                                                            |                      |                                                                                                             |                                                                                                             |
 | 10 | [decidim](https://github.com/decidim/decidim)                                |                                                            | community/           | ![last commit](https://img.shields.io/github/last-commit/decidim/decidim.svg?style=social)                  | ![stars](https://img.shields.io/github/stars/decidim/decidim.svg?style=social&label=Stars)                  |
 |    |                                                                              |                                                            | government           |                                                                                                             |                                                                                                             |
-|    | recent layers: transparency                                                  |                                                            |                      |                                                                                                             |                                                                                                             |
 
 #### related awesome-sites on github
 
-  - [awesome humane
-    tech](https://github.com/engagingspaces/awesome-humane-tech)
+  - [awesome humane tech](https://github.com/engagingspaces/awesome-humane-tech)
   - [humans](https://github.com/learn-anything/humans)
   - [awesome readme](https://github.com/matiassingers/awesome-readme)
   - [awesome hci](https://github.com/tanyuan/awesome-hci)
-  - [awesome humanitarian
-    foss](https://github.com/EticaAI/awesome-humanitarian-foss)
+  - [awesome humanitarian foss](https://github.com/EticaAI/awesome-humanitarian-foss)
 
 #### possibly related Tags/Topics on github
 
@@ -119,13 +130,13 @@ beeing outdated and deprecated.
   - [deliberation](https://github.com/topics/deliberation)
   - [democracy measures](https://github.com/topics/democracy-measures)
   - [democracy](https://github.com/topics/democracy)
+  - [democracynow](https://github.com/topics/democracynow)
   - [e-participation](https://github.com/topics/e-participation)
   - [liquid democracy](https://github.com/topics/liquid-democracy)
   - [municipalities](https://github.com/topics/municipalities)
   - [open data](https://github.com/topics/open-data)
   - [parliamentary data](https://github.com/topics/parliamentary-data)
-  - [parliamentary
-    monitoring](https://github.com/topics/parliamentary-monitoring)
+  - [parliamentary monitoring](https://github.com/topics/parliamentary-monitoring)
   - [political science](https://github.com/topics/political-science)
   - [politics](https://github.com/topics/politics)
   - [poll](https://github.com/topics/poll)
@@ -140,20 +151,13 @@ beeing outdated and deprecated.
 ## sistemic bugs
 
   - monarchy
-
   - constitutional monarchy
-
   - dictatorship
-
   - authoritarism
-    
       - due to inactivity/passivness
-
   - authoritarism -\> mentality -\> beliefs -\> education
-
   - overrated importance of property
 
-  - 
 ## actual empirical bugs
 
   - lack of participation
@@ -172,24 +176,28 @@ beeing outdated and deprecated.
                     offers/projects
                   - lack of access
               - due to:
-          - burocracy
+          - mismanaged burocracy
           - digital gap
+          - abusive manipulation of information -\> fake-news
+  - economic inequality
   - corruption
       - power abuse
+          - authoritarism
+          - abusive manipulation of information
       - abundance -\> property
+  - religious fanatism
   - ecodestruction
 
 # License
 
-![creativecommons](images/public\_domain.svg)
+![creativecommons\](images/public\_domain.svg)
 
 # TODO
 
   - <span class="done0"></span>Content
       - <span class="done0"></span>Democracy Ecosystem
+          - <span class="done0"></span>Liberal Culture
       - <span class="done0"></span>Layers
-          - <span class="done0"></span>Letterpress / Refomation :
-            Mediaboost :
-  - <span class="done2"></span>Layout
-      - <span class="done4"></span>Badges
-      - <span class="done0"></span>Images
+      - <span class="done0"></span>License
+      - <span class="done0"></span>recent layers:
+          - <span class="done0"></span>transparency-debate
