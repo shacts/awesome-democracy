@@ -1,9 +1,11 @@
-Curated List of democracy-related resources -
+Curated List of democracy-related resources ...
+![awesome\_badge](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
 # Contents
 
   - [Philosophy](#Philosophy)
-      - [Seminal contributions to modern democracy](#Philosophy#Seminal%20contributions%20to%20modern%20democracy)
+      - [Seminal contributions to modern
+        democracy](#Philosophy#Seminal%20contributions%20to%20modern%20democracy)
   - [Techniques/Technology](#Techniques/Technology)
       - [Software](#Techniques/Technology#Software)
           - [Software-Development](#Techniques/Technology#Software#Software-Development)
@@ -34,8 +36,7 @@ beeing outdated and deprecated.
 
 ...rebasing
 
-  - [oll libertyfund
-org](http://oll.libertyfund.org)
+  - [oll libertyfund org](http://oll.libertyfund.org)
 
 | X | idea / author                                                               | key concepts                    | source-code / other ressources                                                                                                  | timestamp/commit |
 | - | --------------------------------------------------------------------------- | ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- | ---------------- |
@@ -205,17 +206,20 @@ org](http://oll.libertyfund.org)
 
 # License
 
-![creativecommons](images/public\_domain.svg)
+![creativecommons\](images/public\_domain.svg) This work is licensed
+under [Creative Commons Attribution 4.0 International
+License](http://creativecommons.org/licenses/by/4.0/)
 
 # TODO
-- [ ] Content
-   - [ ] github-list
-      - [ ] complete list
-      - [ ] organizse/sort list
-	 - [ ] establish ranking criteria
-   - [ ] Democracy Ecosystem
-      - [ ] Liberal Culture 
-   - [ ] License
-   - [ ] Layers
-      - [ ] recent layers:
-	 - [ ] transparency-debate
+
+  - <span class="done0"></span>Content
+      - <span class="done0"></span>github-list
+          - <span class="done0"></span>complete list
+          - <span class="done0"></span>organizse/sort list
+      - <span class="done0"></span>establish ranking criteria
+  - <span class="done0"></span>Democracy Ecosystem
+      - <span class="done0"></span>Liberal Culture
+  - <span class="done0"></span>License
+  - <span class="done0"></span>Layers
+      - <span class="done0"></span>recent layers:
+  - <span class="done0"></span>transparency-debate

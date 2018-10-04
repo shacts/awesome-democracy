@@ -1,4 +1,4 @@
-Curated List of democracy-related resources - 
+Curated List of democracy-related resources ... {{https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg|awesome_badge}}
 
 = Contents =
    - [[#Philosophy|Philosophy]]
@@ -202,8 +202,8 @@ And it is far from being perfect - it demands development to avoid beeing outdat
 - ecodestruction
 
 = License =
-%% [[https://creativecommons.org/publicdomain/zero/1.0/|{{../images/public_domain.svg}}]]
 ![creativecommons](images/public_domain.svg)
+This work is licensed under [[http://creativecommons.org/licenses/by/4.0/|Creative Commons Attribution 4.0 International License]]
 
 
 = TODO =
@@ -220,7 +220,7 @@ And it is far from being perfect - it demands development to avoid beeing outdat
 	 - [ ] transparency-debate
 
 
-%% - [ ] Selfuudating list -> algorithm
+%% - [ ] Selfupdating list -> algorithm
 %% - [o] Layout
 %%    - [X] Badges
 %%    - [ ] Images
