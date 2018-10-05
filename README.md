@@ -4,8 +4,7 @@ Curated List of democracy-related resources ...
 # Contents
 
   - [Philosophy](#Philosophy)
-      - [Seminal contributions to modern
-        democracy](#Philosophy#Seminal%20contributions%20to%20modern%20democracy)
+      - [Seminal contributions to modern democracy](#Philosophy#Seminal%20contributions%20to%20modern%20democracy)
   - [Techniques/Technology](#Techniques/Technology)
       - [Software](#Techniques/Technology#Software)
           - [Software-Development](#Techniques/Technology#Software#Software-Development)
@@ -43,7 +42,7 @@ beeing outdated and deprecated.
 |   | [Equality](https://en.wikipedia.org/wiki/Equality)                          | social, gender, racial equality |                                                                                                                                 |                  |
 |   |                                                                             |                                 |                                                                                                                                 |                  |
 |   | [Liberty](https://en.wikipedia.org/wiki/Liberty)                            | free will                       |                                                                                                                                 |                  |
-|   |                                                                             | free expression                 |                                                                                                                                 |                  |
+|   |                                                                             | free expression / press         |                                                                                                                                 |                  |
 |   | [Pluralism](https://en.wikipedia.org/wiki/Pluralism_\(political_theory\))   |                                 |                                                                                                                                 |                  |
 |   |                                                                             |                                 |                                                                                                                                 |                  |
 |   | [Magna\_Carta](https://en.wikipedia.org/wiki/Magna_Carta)                   | limiting feudality              | [jpg](https://en.wikipedia.org/wiki/File:Magna_Carta_\(British_Library_Cotton_MS_Augustus_II.106\).jpg)                         | 1215             |
@@ -78,8 +77,10 @@ beeing outdated and deprecated.
 ## Monitoring
 
   - [internationaldemocracywatch](http://www.internationaldemocracywatch.org)
+  - [eiu democracy index](https://www.eiu.com/topic/democracy-index)
   - [statewatch](http://www.statewatch.org/)
   - [transparency](https://www.transparency.org/)
+  - [freedom of press](https://rsf.org/en/ranking)
 
 ## Software
 
@@ -136,7 +137,8 @@ beeing outdated and deprecated.
   - [humans](https://github.com/learn-anything/humans)
   - [awesome readme](https://github.com/matiassingers/awesome-readme)
   - [awesome hci](https://github.com/tanyuan/awesome-hci)
-  - [awesome humanitarian foss](https://github.com/EticaAI/awesome-humanitarian-foss)
+  - [awesome humanitarian
+    foss](https://github.com/EticaAI/awesome-humanitarian-foss)
 
 #### possibly related Tags/Topics on github
 
@@ -169,8 +171,7 @@ beeing outdated and deprecated.
   - monarchy
   - constitutional monarchy
   - dictatorship
-  - authoritarism
-      - due to inactivity/passivness
+  - authoritarism due to inactivity/passivness
   - authoritarism -\> mentality -\> beliefs -\> education
   - overrated importance of property
 
@@ -206,20 +207,18 @@ beeing outdated and deprecated.
 
 # License
 
-![creativecommons\](images/public\_domain.svg) This work is licensed
-under [Creative Commons Attribution 4.0 International
+![creativecommons\](images/public\_domain.svg) This work is licensed under [Creative Commons Attribution 4.0 International
 License](http://creativecommons.org/licenses/by/4.0/)
 
 # TODO
-
-  - <span class="done0"></span>Content
-      - <span class="done0"></span>github-list
-          - <span class="done0"></span>complete list
-          - <span class="done0"></span>organizse/sort list
-      - <span class="done0"></span>establish ranking criteria
-  - <span class="done0"></span>Democracy Ecosystem
-      - <span class="done0"></span>Liberal Culture
-  - <span class="done0"></span>License
-  - <span class="done0"></span>Layers
-      - <span class="done0"></span>recent layers:
-  - <span class="done0"></span>transparency-debate
+- [ ] Content
+   - [ ] github-list
+      - [ ] complete list
+      - [ ] organizse/sort list
+	 - [ ] establish ranking criteria
+   - [ ] Democracy Ecosystem
+      - [ ] Liberal Culture 
+   - [ ] License
+   - [ ] Layers
+      - [ ] recent layers:
+	 - [ ] transparency-debate

@@ -39,7 +39,7 @@ And it is far from being perfect - it demands development to avoid beeing outdat
 |   | [[https://en.wikipedia.org/wiki/Equality|Equality]]                         | social, gender, racial equality |                                                                                                                                  |                  |
 |   |                                                                             |                                 |                                                                                                                                  |                  |
 |   | [[https://en.wikipedia.org/wiki/Liberty|Liberty]]                           | free will                       |                                                                                                                                  |                  |
-|   |                                                                             | free expression                 |                                                                                                                                  |                  |
+|   |                                                                             | free expression / press         |                                                                                                                                  |                  |
 |   | [[https://en.wikipedia.org/wiki/Pluralism_(political_theory)|Pluralism]]    |                                 |                                                                                                                                  |                  |
 |   |                                                                             |                                 |                                                                                                                                  |                  |
 |   | [[https://en.wikipedia.org/wiki/Magna_Carta|Magna_Carta]]                   | limiting feudality              | [[https://en.wikipedia.org/wiki/File:Magna_Carta_(British_Library_Cotton_MS_Augustus_II.106).jpg|jpg]]                           | 1215             |
@@ -75,8 +75,10 @@ And it is far from being perfect - it demands development to avoid beeing outdat
 %% ===== Parliament =====
 == Monitoring ==
 - [[http://www.internationaldemocracywatch.org|internationaldemocracywatch]]
+- [[https://www.eiu.com/topic/democracy-index|eiu democracy index]]
 - [[http://www.statewatch.org/|statewatch]]
 - [[https://www.transparency.org/|transparency]]
+- [[https://rsf.org/en/ranking|freedom of press]]
 
 == Software ==
 - [[https://en.wikipedia.org/wiki/Open-source_software|OpenSource]] / [[https://en.wikipedia.org/wiki/Free_and_open-source_software|Free_and_open source_software]]
