@@ -29,6 +29,7 @@ But it hasn't existed always, nor will it.
 And it is far from being perfect - it demands development to avoid beeing outdated and deprecated.
 
 
+%%{{{== Seminal contributions to modern democracy ==
 == Seminal contributions to modern democracy ==
 ...rebasing
 
@@ -68,11 +69,18 @@ And it is far from being perfect - it demands development to avoid beeing outdat
 |   |                                                                             |                                 |                                                                                                                                  |                  |
 |   | [[https://en.wikipedia.org/wiki/Electronic_voting|electronic_voting]]       | technological development:      |                                                                                                                                  | 2004             |
 |   |                                                                             | communication                   |                                                                                                                                  |                  |
+
+%%}}}
                                                                                                  
 = Techniques/Technology =
+%% <details>
+%% <summary>click here to see all Tech-related-TODOs</summary>
+%% ```
 %% == Assembly ==
 %% === Representative Assembly ===
 %% ===== Parliament =====
+%% ```
+
 == Monitoring ==
 - [[http://www.internationaldemocracywatch.org|internationaldemocracywatch]]
 - [[https://www.eiu.com/topic/democracy-index|eiu democracy index]]
@@ -83,6 +91,9 @@ And it is far from being perfect - it demands development to avoid beeing outdat
 == Software ==
 - [[https://en.wikipedia.org/wiki/Open-source_software|OpenSource]] / [[https://en.wikipedia.org/wiki/Free_and_open-source_software|Free_and_open source_software]]
 - [[https://en.wikipedia.org/wiki/Linux|Linux]]
+- [[https://en.wikipedia.org/wiki/GitHub|GitHub]] (but what if it gets bought by Microsoft?)
+
+%%{{{=== Software-Development ===
 
 === Software-Development ===
 - [[https://humanetech.com/|humanetech]]
@@ -127,19 +138,25 @@ And it is far from being perfect - it demands development to avoid beeing outdat
 |    |                                                                               |                                                                       |                      |                                                                                                             |                                                                                                             |
 |    |                                                                               |                                                                       |                      |                                                                                                             |                                                                                                             |
 
-
+%% [![Throughput Graph](https://graphs.waffle.io/neovim/neovim/throughput.svg)](https://waffle.io/neovim/neovim/metrics) TODO
 %% https://github.com/EFForg/privacybadger
+%%}}}
 
 ==== related awesome-sites on github ====
-
+%% <details>
+%% <summary>click here to see all Tech-related-TODOs</summary>
+%% ```
 - [[https://github.com/engagingspaces/awesome-humane-tech|awesome humane tech]]
 - [[https://github.com/learn-anything/humans|humans]]
 - [[https://github.com/matiassingers/awesome-readme|awesome readme]]
 - [[https://github.com/tanyuan/awesome-hci|awesome hci]]
 - [[https://github.com/EticaAI/awesome-humanitarian-foss|awesome humanitarian foss]]
+%% ```
 
 ==== possibly related Tags/Topics on github ====
-
+%% <details>
+%% <summary>click here to see all Tech-related-TODOs</summary>
+%% ```
 - [[https://github.com/topics/citizens|citizens]]
 - [[https://github.com/topics/civic-tech|civic tech]]
 - [[https://github.com/topics/decision-making|decision making]]
@@ -161,6 +178,7 @@ And it is far from being perfect - it demands development to avoid beeing outdat
 - [[https://github.com/topics/social|social]]
 - [[https://github.com/topics/vote|vote]]
 - [[https://github.com/topics/voting|voting]]
+%% ```
 
 
 = Known Democracy Bugs =
@@ -175,6 +193,9 @@ And it is far from being perfect - it demands development to avoid beeing outdat
 - overrated importance of property
  
 == actual empirical bugs ==
+%% <details>
+%% <summary>click here to see all empirical bugs</summary>
+%% ```
 - lack of participation
    - due to:
       - lack of motivation
@@ -202,12 +223,17 @@ And it is far from being perfect - it demands development to avoid beeing outdat
    - abundance -> property
 - religious fanatism
 - ecodestruction
+%% ```
 
 = License =
-![creativecommons](images/public_domain.svg)
+{{file:../images/public_domain.svg|Creative Commons 4.0}}
+
 This work is licensed under [[http://creativecommons.org/licenses/by/4.0/|Creative Commons Attribution 4.0 International License]]
 
 
+%% <details>
+%% <summary>click here to see TODO</summary>
+%% ```
 = TODO =
 - [ ] Content
    - [ ] github-list
@@ -216,11 +242,10 @@ This work is licensed under [[http://creativecommons.org/licenses/by/4.0/|Creati
 	 - [ ] establish ranking criteria
    - [ ] Democracy Ecosystem
       - [ ] Liberal Culture 
-   - [ ] License
    - [ ] Layers
       - [ ] recent layers:
 	 - [ ] transparency-debate
-
+%% ```
 
 %% - [ ] Selfupdating list -> algorithm
 %% - [o] Layout

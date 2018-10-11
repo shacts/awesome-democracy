@@ -4,7 +4,8 @@ Curated List of democracy-related resources ...
 # Contents
 
   - [Philosophy](#Philosophy)
-      - [Seminal contributions to modern democracy](#Philosophy#Seminal%20contributions%20to%20modern%20democracy)
+      - [Seminal contributions to modern
+        democracy](#Philosophy#Seminal%20contributions%20to%20modern%20democracy)
   - [Techniques/Technology](#Techniques/Technology)
       - [Software](#Techniques/Technology#Software)
           - [Software-Development](#Techniques/Technology#Software#Software-Development)
@@ -86,6 +87,7 @@ beeing outdated and deprecated.
 
   - [OpenSource](https://en.wikipedia.org/wiki/Open-source_software) / [Free\_and\_open source\_software](https://en.wikipedia.org/wiki/Free_and_open-source_software)
   - [Linux](https://en.wikipedia.org/wiki/Linux)
+  - [GitHub](https://en.wikipedia.org/wiki/GitHub) (but what if it gets bought by Microsoft?)
 
 ### Software-Development
 
@@ -132,16 +134,14 @@ beeing outdated and deprecated.
 |    |                                                                              |                                                                      |                      |                                                                                                             |                                                                                                             |
 
 #### related awesome-sites on github
-
   - [awesome humane tech](https://github.com/engagingspaces/awesome-humane-tech)
   - [humans](https://github.com/learn-anything/humans)
   - [awesome readme](https://github.com/matiassingers/awesome-readme)
   - [awesome hci](https://github.com/tanyuan/awesome-hci)
-  - [awesome humanitarian
-    foss](https://github.com/EticaAI/awesome-humanitarian-foss)
+  - [awesome humanitarian foss](https://github.com/EticaAI/awesome-humanitarian-foss)
+
 
 #### possibly related Tags/Topics on github
-
   - [citizens](https://github.com/topics/citizens)
   - [civic tech](https://github.com/topics/civic-tech)
   - [decision making](https://github.com/topics/decision-making)
@@ -164,6 +164,7 @@ beeing outdated and deprecated.
   - [vote](https://github.com/topics/vote)
   - [voting](https://github.com/topics/voting)
 
+
 # Known Democracy Bugs
 
 ## sistemic bugs
@@ -171,7 +172,8 @@ beeing outdated and deprecated.
   - monarchy
   - constitutional monarchy
   - dictatorship
-  - authoritarism due to inactivity/passivness
+  - authoritarism
+      - due to inactivity/passivness
   - authoritarism -\> mentality -\> beliefs -\> education
   - overrated importance of property
 
@@ -207,10 +209,11 @@ beeing outdated and deprecated.
 
 # License
 
-![creativecommons\](images/public\_domain.svg) This work is licensed under [Creative Commons Attribution 4.0 International
-License](http://creativecommons.org/licenses/by/4.0/)
+![Creative Commons 4.0](images/public_domain.svg)
 
-# TODO
+This work is licensed under [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/)
+
+# TODO 
 - [ ] Content
    - [ ] github-list
       - [ ] complete list
@@ -218,7 +221,6 @@ License](http://creativecommons.org/licenses/by/4.0/)
 	 - [ ] establish ranking criteria
    - [ ] Democracy Ecosystem
       - [ ] Liberal Culture 
-   - [ ] License
    - [ ] Layers
       - [ ] recent layers:
 	 - [ ] transparency-debate
