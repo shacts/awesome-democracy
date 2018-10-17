@@ -36,7 +36,7 @@ beeing outdated and deprecated.
 
 ...rebasing
 
-  - [oll libertyfund org](http://oll.libertyfund.org)
+  - [oll libertyfundorg](http://oll.libertyfund.org)
 
 | X | idea / author                                                               | key concepts                    | source-code / other ressources                                                                                                  | timestamp/commit |
 | - | --------------------------------------------------------------------------- | ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- | ---------------- |
@@ -85,7 +85,7 @@ beeing outdated and deprecated.
 
 ## Software
 
-  - [OpenSource](https://en.wikipedia.org/wiki/Open-source_software) / [Free\_and\_open source\_software](https://en.wikipedia.org/wiki/Free_and_open-source_software)
+  - [OpenSource](https://en.wikipedia.org/wiki/Open-source_software) /[Free\_and\_open\_source\_software](https://en.wikipedia.org/wiki/Free_and_open-source_software)
   - [Linux](https://en.wikipedia.org/wiki/Linux)
   - [GitHub](https://en.wikipedia.org/wiki/GitHub) (but what if it gets bought by Microsoft?)
 
@@ -93,34 +93,28 @@ beeing outdated and deprecated.
 
   - [humanetech](https://humanetech.com/)
   - [democraciaenred](https://democraciaenred.org/)
-  - [opendemocracy net](https://www.opendemocracy.net)
+  - [opendemocracynet](https://www.opendemocracy.net)
+
+#### on [github](https://github.com)
 
 | X  | [github](https://github.com)                                                 | project url / deployments                                            | topic                | activity / last commit                                                                                      | Stars                                                                                                       |
 | -- | ---------------------------------------------------------------------------- | -------------------------------------------------------------------- | -------------------- | ----------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
 | 1  | [democracyos](https://github.com/DemocracyOS/democracyos)                    | [democracyos](http://democracyos.org/)                               |                      | ![last commit](https://img.shields.io/github/last-commit/democracyos/democracyos.svg?style=social)          | ![stars](https://img.shields.io/github/stars/democracyos/democracyos.svg?style=social&label=Stars)          |
 |    |                                                                              | [evoks](https://evoks.hu/)                                           |                      |                                                                                                             |                                                                                                             |
 |    |                                                                              | [pjlr democracyos](http://pjlr.democracyos.eu/)                      |                      |                                                                                                             |                                                                                                             |
-|    |                                                                              |                                                                      |                      |                                                                                                             |                                                                                                             |
 | 2  | [consul](https://github.com/consul/consul)                                   |                                                                      |                      | ![last commit](https://img.shields.io/github/last-commit/consul/consul.svg?style=social)                    | ![stars](https://img.shields.io/github/stars/consul/consul.svg?style=social&label=Stars)                    |
 |    |                                                                              | [consulproject](http://consulproject.org)                            |                      |                                                                                                             |                                                                                                             |
 |    |                                                                              | [decide madrid](https://decide.madrid.es/)                           |                      |                                                                                                             |                                                                                                             |
-|    |                                                                              |                                                                      |                      |                                                                                                             |                                                                                                             |
-|    |                                                                              |                                                                      |                      |                                                                                                             |                                                                                                             |
 | 4  | [democracy io](https://github.com/sinak/democracy.io)                        |                                                                      |                      | ![last commit](https://img.shields.io/github/last-commit/sinak/democracy.io.svg?style=social)               | ![stars](https://img.shields.io/github/stars/sinak/democracy.io.svg?style=social&label=Stars)               |
-|    |                                                                              |                                                                      |                      |                                                                                                             |                                                                                                             |
 | 5  | [civiwiki](https://github.com/civiwiki)                                      | [civiwiki](https://www.civiwiki.org/)                                | masscommunication    | ![last commit](https://img.shields.io/github/last-commit/civiwiki/civiwiki.svg?style=social)                | ![stars](https://img.shields.io/github/stars/civiwiki/civiwiki.svg?style=social&label=Stars)                |
-|    |                                                                              |                                                                      |                      |                                                                                                             |                                                                                                             |
 | 6  | [publicwhip](https://github.com/openaustralia/publicwhip)                    |                                                                      | votation/            | ![last commit](https://img.shields.io/github/last-commit/openaustralia/publicwhip.svg?style=social)         | ![stars](https://img.shields.io/github/stars/openaustralia/publicwhip.svg?style=social&label=Stars)         |
 |    |                                                                              |                                                                      | results/             |                                                                                                             |                                                                                                             |
 |    |                                                                              |                                                                      | control delegates    |                                                                                                             |                                                                                                             |
-|    |                                                                              |                                                                      |                      |                                                                                                             |                                                                                                             |
 | 7  | [rundfunk mitbestimmen](https://github.com/roschaefer/rundfunk-mitbestimmen) | [rundfunk mitbestimmen](https://rundfunk-mitbestimmen.de/)           | votation/            | ![last commit](https://img.shields.io/github/last-commit/roschaefer/rundfunk-mitbestimmen.svg?style=social) | ![stars](https://img.shields.io/github/stars/roschaefer/rundfunk-mitbestimmen.svg?style=social&label=Stars) |
 |    |                                                                              |                                                                      | results              |                                                                                                             |                                                                                                             |
 |    |                                                                              |                                                                      | participation        |                                                                                                             |                                                                                                             |
 | 8  | [democracy client](https://github.com/demokratie-live/democracy-client)      |                                                                      |                      | ![last commit](https://img.shields.io/github/last-commit/demokratie-live/democracy-client.svg?style=social) | ![stars](https://img.shields.io/github/stars/demokratie-live/democracy-client.svg?style=social&label=Stars) |
-|    |                                                                              |                                                                      |                      |                                                                                                             |                                                                                                             |
 | 9  | [alaveteli](https://github.com/mysociety/alaveteli)                          | [alaveteli org](http://alaveteli.org)                                | control jurisdiction | ![last commit](https://img.shields.io/github/last-commit/mysociety/alaveteli.svg?style=social)              | ![stars](https://img.shields.io/github/stars/mysociety/alaveteli.svg?style=social&label=Stars)              |
-|    |                                                                              |                                                                      |                      |                                                                                                             |                                                                                                             |
 | 10 | [decidim](https://github.com/decidim/decidim)                                | [decidim](https://decidim.org/)                                      | community/           | ![last commit](https://img.shields.io/github/last-commit/decidim/decidim.svg?style=social)                  | ![stars](https://img.shields.io/github/stars/decidim/decidim.svg?style=social&label=Stars)                  |
 |    |                                                                              |                                                                      | government           |                                                                                                             |                                                                                                             |
 |    |                                                                              | [decidim barcel](https://www.decidim.barcelona/)                     |                      |                                                                                                             |                                                                                                             |
@@ -128,20 +122,39 @@ beeing outdated and deprecated.
 |    |                                                                              | [participa castillalamancha](https://participa.castillalamancha.es/) |                      |                                                                                                             |                                                                                                             |
 |    |                                                                              | [erabaki pamplona](https://erabaki.pamplona.es/)                     |                      |                                                                                                             |                                                                                                             |
 |    |                                                                              | ...many more                                                         |                      |                                                                                                             |                                                                                                             |
-|    |                                                                              |                                                                      |                      |                                                                                                             |                                                                                                             |
-|    |                                                                              |                                                                      |                      |                                                                                                             |                                                                                                             |
-|    |                                                                              |                                                                      |                      |                                                                                                             |                                                                                                             |
-|    |                                                                              |                                                                      |                      |                                                                                                             |                                                                                                             |
+|    | [data4democracy](https://github.com/data4democracy.github.com)               |                                                                      |                      |                                                                                                             |                                                                                                             |
+
+#### on [gitlab](https://gitlab.com)
+
+(first draft)
+
+| X | [gitlab](https://gitlab.com)                                                          | project url / deployments | topic | activity / last commit | Stars |
+| - | ------------------------------------------------------------------------------------- | ------------------------- | ----- | ---------------------- | ----- |
+|   | [democracy tools](https://gitlab.com/democracy-tools)                                 |                           |       |                        |       |
+|   | [democracy](https://gitlab.com/sofistica/democracy)                                   |                           |       |                        |       |
+|   | [your priorities app](https://gitlab.com/dormeno/your-priorities-app)                 |                           |       |                        |       |
+|   | [consul pol](https://gitlab.com/Enabl.ist/consul-pol)                                 |                           |       |                        |       |
+|   | [democracy box](https://gitlab.com/ethan/democracy-box)                               |                           |       |                        |       |
+|   | [sovereign](https://gitlab.com/karankohli13/sovereign) .                              |                           |       |                        |       |
+|   | [democracy plus](https://gitlab.com/mchase/democracy-plus)                            |                           |       |                        |       |
+|   | [javascript democracy](https://gitlab.com/hd-sunrise/javascript-democracy)            |                           |       |                        |       |
+|   | [pseudo democracy discord bot](https://gitlab.com/Syl20/pseudo-democracy-discord-bot) |                           |       |                        |       |
+|   | [Rules of Order](https://gitlab.com/Eudaimonstro/Steves-Rules-of-Order)               |                           |       |                        |       |
+|   | [coop governance](https://gitlab.com/pwgd/platform-coop-governance)                   |                           |       |                        |       |
+|   | [simple direct democracy website](https://gitlab.com/simple-direct-democracy/website) |                           |       |                        |       |
+|   | [election transparency](https://gitlab.com/hrbrmstr/election-transparency)            |                           |       |                        |       |
+|   | <https://gitlab.com/gonzalop67/Democracy>                                             |                           |       |                        |       |
 
 #### related awesome-sites on github
-  - [awesome humane tech](https://github.com/engagingspaces/awesome-humane-tech)
+
+  - [awesome humanetech](https://github.com/engagingspaces/awesome-humane-tech)
   - [humans](https://github.com/learn-anything/humans)
   - [awesome readme](https://github.com/matiassingers/awesome-readme)
   - [awesome hci](https://github.com/tanyuan/awesome-hci)
-  - [awesome humanitarian foss](https://github.com/EticaAI/awesome-humanitarian-foss)
-
+  - [awesome humanitarian_foss](https://github.com/EticaAI/awesome-humanitarian-foss)
 
 #### possibly related Tags/Topics on github
+
   - [citizens](https://github.com/topics/citizens)
   - [civic tech](https://github.com/topics/civic-tech)
   - [decision making](https://github.com/topics/decision-making)
@@ -163,7 +176,6 @@ beeing outdated and deprecated.
   - [social](https://github.com/topics/social)
   - [vote](https://github.com/topics/vote)
   - [voting](https://github.com/topics/voting)
-
 
 # Known Democracy Bugs
 
@@ -209,18 +221,19 @@ beeing outdated and deprecated.
 
 # License
 
-![Creative Commons 4.0](images/public_domain.svg)
+![Creative Commons 4.0](file:../images/public_domain.svg)
 
-This work is licensed under [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/)
+This work is licensed under [Creative Commons Attribution 4.0International License](http://creativecommons.org/licenses/by/4.0/)
 
-# TODO 
-- [ ] Content
-   - [ ] github-list
-      - [ ] complete list
-      - [ ] organizse/sort list
-	 - [ ] establish ranking criteria
-   - [ ] Democracy Ecosystem
-      - [ ] Liberal Culture 
-   - [ ] Layers
-      - [ ] recent layers:
-	 - [ ] transparency-debate
+# TODO
+
+  - <span class="done0"></span>Content
+      - <span class="done0"></span>github-list
+          - <span class="done0"></span>complete list
+          - <span class="done0"></span>organizse/sort list
+      - <span class="done0"></span>establish ranking criteria
+  - <span class="done0"></span>Democracy Ecosystem
+      - <span class="done0"></span>Liberal Culture
+  - <span class="done0"></span>Layers
+      - <span class="done0"></span>recent layers:
+  - <span class="done0"></span>transparency-debate
