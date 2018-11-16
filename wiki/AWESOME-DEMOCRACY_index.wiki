@@ -263,6 +263,8 @@ This work is licensed under [[http://creativecommons.org/licenses/by/4.0/|Creati
 %% ```
 
 %% - [ ] Selfupdating list -> algorithm
+   %% - [ ] scoring: https://github.com/unixorn/awesome-zsh-plugins/blob/master/zsh-plugin-assessor/zsh-plugin-assessor
+
 %% - [o] Layout
 %%    - [X] Badges
 %%    - [ ] Images
