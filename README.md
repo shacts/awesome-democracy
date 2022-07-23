@@ -169,6 +169,7 @@ beeing outdated and deprecated.
 <details open>
   <summary></summary>
   
+  - [awesome-democracy-data](https://github.com/andrewcstewart/awesome-democracy-data)
   - [awesome humanetech](https://github.com/engagingspaces/awesome-humane-tech)
   - [humans](https://github.com/learn-anything/humans)
   - [awesome readme](https://github.com/matiassingers/awesome-readme)
