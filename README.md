@@ -37,7 +37,10 @@ beeing outdated and deprecated.
 ...rebasing
 
   - [oll libertyfundorg](http://oll.libertyfund.org)
-
+  
+<details>
+  <summary>Click to expand key concepts and related information</summary>
+  
 | X | idea / author                                                               | key concepts                    | source-code / other ressources                                                                                                  | timestamp/commit |
 | - | --------------------------------------------------------------------------- | ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- | ---------------- |
 |   | [Equality](https://en.wikipedia.org/wiki/Equality)                          | social, gender, racial equality |                                                                                                                                 |                  |
@@ -72,6 +75,8 @@ beeing outdated and deprecated.
 |   |                                                                             |                                 |                                                                                                                                 |                  |
 |   | [electronic\_voting](https://en.wikipedia.org/wiki/Electronic_voting)       | technological development:      |                                                                                                                                 | 2004             |
 |   |                                                                             | communication                   |                                                                                                                                 |                  |
+</details>
+
 
 # Techniques/Technology
 
