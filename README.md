@@ -4,8 +4,7 @@ Curated List of democracy-related resources ...
 # Contents
 
   - [Philosophy](#Philosophy)
-      - [Seminal contributions to modern
-        democracy](#Philosophy#Seminal%20contributions%20to%20modern%20democracy)
+      - [Seminal contributions to modern democracy](#Philosophy#Seminal%20contributions%20to%20modern%20democracy)
   - [Techniques/Technology](#Techniques/Technology)
       - [Software](#Techniques/Technology#Software)
           - [Software-Development](#Techniques/Technology#Software#Software-Development)
@@ -39,7 +38,7 @@ beeing outdated and deprecated.
   - [oll libertyfundorg](http://oll.libertyfund.org)
   
 <details open>
-  <summary>Click to collapse key concepts and related information</summary>
+  <summary></summary>
   
 | X | idea / author                                                               | key concepts                    | source-code / other ressources                                                                                                  | timestamp/commit |
 | - | --------------------------------------------------------------------------- | ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- | ---------------- |
@@ -83,7 +82,7 @@ beeing outdated and deprecated.
 ## Monitoring
 
 <details open>
-  <summary>Click to collapse table</summary>
+  <summary></summary>
   
   - [internationaldemocracywatch](http://www.internationaldemocracywatch.org)
   - [eiu democracy index](https://www.eiu.com/topic/democracy-index)
@@ -108,7 +107,8 @@ beeing outdated and deprecated.
 #### on [github](https://github.com)
 
 <details open>
-  <summary>Click to collapse table</summary>
+  <summary></summary>
+
 
 | X  | [github](https://github.com)                                                 | project url / deployments                                            | topic                | activity / last commit                                                                                      | Stars                                                                                                       |
 | -- | ---------------------------------------------------------------------------- | -------------------------------------------------------------------- | -------------------- | ----------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
@@ -141,7 +141,7 @@ beeing outdated and deprecated.
 #### on [gitlab](https://gitlab.com)
 
 <details open>
-  <summary>Click to collapse table</summary>
+  <summary></summary>
   
 (first draft)
 
@@ -167,7 +167,7 @@ beeing outdated and deprecated.
 #### related awesome-sites on github
 
 <details open>
-  <summary>Click to collapse</summary>
+  <summary></summary>
   
   - [awesome humanetech](https://github.com/engagingspaces/awesome-humane-tech)
   - [humans](https://github.com/learn-anything/humans)
@@ -180,7 +180,7 @@ beeing outdated and deprecated.
 #### possibly related Tags/Topics on github
 
 <details open>
-  <summary>Click to collapse</summary>
+  <summary></summary>
   
   - [citizens](https://github.com/topics/citizens)
   - [civic tech](https://github.com/topics/civic-tech)
@@ -209,7 +209,7 @@ beeing outdated and deprecated.
 # Known Democracy Bugso
 
 <details open>
-  <summary>Click to collapse</summary>
+  <summary></summary>
   
 ## sistemic bugs
 
