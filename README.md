@@ -38,8 +38,8 @@ beeing outdated and deprecated.
 
   - [oll libertyfundorg](http://oll.libertyfund.org)
   
-<details>
-  <summary>Click to expand key concepts and related information</summary>
+<details open>
+  <summary>Click to collapse key concepts and related information</summary>
   
 | X | idea / author                                                               | key concepts                    | source-code / other ressources                                                                                                  | timestamp/commit |
 | - | --------------------------------------------------------------------------- | ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- | ---------------- |
@@ -82,11 +82,16 @@ beeing outdated and deprecated.
 
 ## Monitoring
 
+<details open>
+  <summary>Click to collapse table</summary>
+  
   - [internationaldemocracywatch](http://www.internationaldemocracywatch.org)
   - [eiu democracy index](https://www.eiu.com/topic/democracy-index)
   - [statewatch](http://www.statewatch.org/)
   - [transparency](https://www.transparency.org/)
   - [freedom of press](https://rsf.org/en/ranking)
+
+</details>
 
 ## Software
 
@@ -101,6 +106,9 @@ beeing outdated and deprecated.
   - [opendemocracynet](https://www.opendemocracy.net)
 
 #### on [github](https://github.com)
+
+<details open>
+  <summary>Click to collapse table</summary>
 
 | X  | [github](https://github.com)                                                 | project url / deployments                                            | topic                | activity / last commit                                                                                      | Stars                                                                                                       |
 | -- | ---------------------------------------------------------------------------- | -------------------------------------------------------------------- | -------------------- | ----------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
@@ -128,9 +136,13 @@ beeing outdated and deprecated.
 |    |                                                                              | [erabaki pamplona](https://erabaki.pamplona.es/)                     |                      |                                                                                                             |                                                                                                             |
 |    |                                                                              | ...many more                                                         |                      |                                                                                                             |                                                                                                             |
 |    | [data4democracy](https://github.com/data4democracy.github.com)               |                                                                      |                      |                                                                                                             |                                                                                                             |
+</details>
 
 #### on [gitlab](https://gitlab.com)
 
+<details open>
+  <summary>Click to collapse table</summary>
+  
 (first draft)
 
 | X | [gitlab](https://gitlab.com)                                                          | project url / deployments | topic | activity / last commit | Stars |
@@ -150,16 +162,26 @@ beeing outdated and deprecated.
 |   | [election transparency](https://gitlab.com/hrbrmstr/election-transparency)            |                           |       |                        |       |
 |   | <https://gitlab.com/gonzalop67/Democracy>                                             |                           |       |                        |       |
 
+</details>
+
 #### related awesome-sites on github
 
+<details open>
+  <summary>Click to collapse</summary>
+  
   - [awesome humanetech](https://github.com/engagingspaces/awesome-humane-tech)
   - [humans](https://github.com/learn-anything/humans)
   - [awesome readme](https://github.com/matiassingers/awesome-readme)
   - [awesome hci](https://github.com/tanyuan/awesome-hci)
   - [awesome humanitarian_foss](https://github.com/EticaAI/awesome-humanitarian-foss)
 
+</details>
+
 #### possibly related Tags/Topics on github
 
+<details open>
+  <summary>Click to collapse</summary>
+  
   - [citizens](https://github.com/topics/citizens)
   - [civic tech](https://github.com/topics/civic-tech)
   - [decision making](https://github.com/topics/decision-making)
@@ -182,8 +204,13 @@ beeing outdated and deprecated.
   - [vote](https://github.com/topics/vote)
   - [voting](https://github.com/topics/voting)
 
-# Known Democracy Bugs
+</details>
 
+# Known Democracy Bugso
+
+<details open>
+  <summary>Click to collapse</summary>
+  
 ## sistemic bugs
 
   - monarchy
@@ -224,6 +251,8 @@ beeing outdated and deprecated.
   - religious fanatism
   - ecodestruction
 
+</details>
+
 # License
 
 ![Creative Commons 4.0](file:../images/public_domain.svg)
@@ -242,3 +271,6 @@ This work is licensed under [Creative Commons Attribution 4.0International Licen
   - <span class="done0"></span>Layers
       - <span class="done0"></span>recent layers:
   - <span class="done0"></span>transparency-debate
+  
+  
+</details>
