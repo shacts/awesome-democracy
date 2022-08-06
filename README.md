@@ -31,11 +31,12 @@ But it hasn't existed always, nor will it.
 And it is far from being perfect - it demands development to avoid
 beeing outdated and deprecated.
 
+
+
 ## Seminal contributions to modern democracy
 
 ...rebasing
 
-  - [oll libertyfundorg](http://oll.libertyfund.org)
   
 <details open>
   <summary></summary>
@@ -74,10 +75,15 @@ beeing outdated and deprecated.
 |   |                                                                             |                                 |                                                                                                                                 |                  |
 |   | [electronic\_voting](https://en.wikipedia.org/wiki/Electronic_voting)       | technological development:      |                                                                                                                                 | 2004             |
 |   |                                                                             | communication                   |                                                                                                                                 |                  |
+
 </details>
 
 
+
+
 # Techniques/Technology
+
+
 
 ## Monitoring
 
@@ -92,11 +98,15 @@ beeing outdated and deprecated.
 
 </details>
 
+
+
 ## Software
 
   - [OpenSource](https://en.wikipedia.org/wiki/Open-source_software) /[Free\_and\_open\_source\_software](https://en.wikipedia.org/wiki/Free_and_open-source_software)
   - [Linux](https://en.wikipedia.org/wiki/Linux)
   - [GitHub](https://en.wikipedia.org/wiki/GitHub) (but what if it gets bought by Microsoft?)
+
+
 
 ### Software-Development
 
@@ -104,12 +114,12 @@ beeing outdated and deprecated.
   - [democraciaenred](https://democraciaenred.org/)
   - [opendemocracynet](https://www.opendemocracy.net)
 
+
 #### on [github](https://github.com)
 
 <details open>
   <summary></summary>
-
-
+  
 | X  | [github](https://github.com)                                                 | project url / deployments                                            | topic                | activity / last commit                                                                                      | Stars                                                                                                       |
 | -- | ---------------------------------------------------------------------------- | -------------------------------------------------------------------- | -------------------- | ----------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
 | 1  | [democracyos](https://github.com/DemocracyOS/democracyos)                    | [democracyos](http://democracyos.org/)                               |                      | ![last commit](https://img.shields.io/github/last-commit/democracyos/democracyos.svg?style=social)          | ![stars](https://img.shields.io/github/stars/democracyos/democracyos.svg?style=social&label=Stars)          |
@@ -136,15 +146,15 @@ beeing outdated and deprecated.
 |    |                                                                              | [erabaki pamplona](https://erabaki.pamplona.es/)                     |                      |                                                                                                             |                                                                                                             |
 |    |                                                                              | ...many more                                                         |                      |                                                                                                             |                                                                                                             |
 |    | [data4democracy](https://github.com/data4democracy.github.com)               |                                                                      |                      |                                                                                                             |                                                                                                             |
+|    | [ciudadanointeligente](https://github.com/votainteligente-portal-electoral.github.com)               |                                                                      |                      |                                                                                                             |                                                                                                             |
 </details>
+
 
 #### on [gitlab](https://gitlab.com)
 
 <details open>
   <summary></summary>
   
-(first draft)
-
 | X | [gitlab](https://gitlab.com)                                                          | project url / deployments | topic | activity / last commit | Stars |
 | - | ------------------------------------------------------------------------------------- | ------------------------- | ----- | ---------------------- | ----- |
 |   | [democracy tools](https://gitlab.com/democracy-tools)                                 |                           |       |                        |       |
@@ -207,20 +217,36 @@ beeing outdated and deprecated.
 
 </details>
 
-# Known Democracy Bugso
+
+
+
+# Known Democracy Bugs
 
 <details open>
   <summary></summary>
   
-## sistemic bugs
 
-  - monarchy
-  - constitutional monarchy
+
+## sistemic bugs and diseases
+
+which usually result in different levels of inequality of power 
+
+
+### political historical counterconcepts
+  - [ ] monarchy
+  - [ ] constitutional monarchy
+  - aristocracy
   - dictatorship
   - authoritarism
       - due to inactivity/passivness
   - authoritarism -\> mentality -\> beliefs -\> education
+  - nepotism
+   
+
+### political actual hindrance
   - overrated importance of property
+
+
 
 ## actual empirical bugs
 
@@ -240,10 +266,11 @@ beeing outdated and deprecated.
                     offers/projects
                   - lack of access
               - due to:
-          - mismanaged burocracy
-          - digital gap
-          - abusive manipulation of information -\> fake-news
+                - mismanaged burocracy
+                - digital gap
+                - abusive manipulation of information -\> fake-news
   - economic inequality
+  - protecionism
   - corruption
       - power abuse
           - authoritarism
@@ -251,8 +278,31 @@ beeing outdated and deprecated.
       - abundance -\> property
   - religious fanatism
   - ecodestruction
+  - lack of education
+
+- dilemma: strong liberalism reveals strong individualism and selfishness
+  
+- problem: decision-making is slower than with competitive political systems
+
+
+# strategies against bugs
+
+- FOSS since it fights lack of education, property issues like added value,
+  
+- libraries since they fight lack of knowledge
+  
+- better financed educational systems
 
 </details>
+
+
+
+
+# Resources
+  - [Online Library of Libertyl libertyfundorg](http://oll.libertyfund.org) (liberal perspective)
+
+
+
 
 # License
 
@@ -262,16 +312,21 @@ This work is licensed under [Creative Commons Attribution 4.0International Licen
 
 # TODO
 
+<details open>
+  <summary></summary>
+  
   - <span class="done0"></span>Content
       - <span class="done0"></span>github-list
           - <span class="done0"></span>complete list
-          - <span class="done0"></span>organizse/sort list
+          - <span class="done0"></span>organise/sort list
       - <span class="done0"></span>establish ranking criteria
   - <span class="done0"></span>Democracy Ecosystem
       - <span class="done0"></span>Liberal Culture
   - <span class="done0"></span>Layers
       - <span class="done0"></span>recent layers:
   - <span class="done0"></span>transparency-debate
-  
+  - <span class="done0"></span>Definitions
+      - <span class="done0"></span>grades of democracy
+  - <span class="done0"></span>
   
 </details>
