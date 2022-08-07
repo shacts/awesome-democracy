@@ -104,7 +104,8 @@ beeing outdated and deprecated.
 
   - [OpenSource](https://en.wikipedia.org/wiki/Open-source_software) /[Free\_and\_open\_source\_software](https://en.wikipedia.org/wiki/Free_and_open-source_software)
   - [Linux](https://en.wikipedia.org/wiki/Linux)
-  - [GitHub](https://en.wikipedia.org/wiki/GitHub) (but what if it gets bought by Microsoft?)
+ 
+  - [GitHub](https://en.wikipedia.org/wiki/GitHub) (but what to do since it is owned by Microsoft?)
 
 
 
@@ -237,13 +238,13 @@ which usually result in different levels of inequality of power
   - [ ] constitutional monarchy
   - aristocracy
   - dictatorship
-  - authoritarism
-      - due to inactivity/passivness
-  - authoritarism -\> mentality -\> beliefs -\> education
+  - authoritarianism
+      - due to inactivity/passiveness
+  - authoritarianism -\> mentality -\> beliefs -\> education
   - nepotism
    
 
-### political actual hindrance
+### political caveats
   - overrated importance of property
 
 
@@ -260,38 +261,49 @@ which usually result in different levels of inequality of power
                   - lack of knowledge (information)
                   - lack of knowledge (communication)
                   - lack of interest -\> motivation
-                  - lack of institutional responsability -\> education
-                  - lack of individual responsability -\> education
-                  - lack of realistic (well-communicated)
-                    offers/projects
+                  - lack of institutional responsibility -\> education
+                  - lack of individual responsibility -\> education
+                  - lack of realistic (well-communicated) offers/projects
                   - lack of access
               - due to:
                 - mismanaged burocracy
                 - digital gap
                 - abusive manipulation of information -\> fake-news
   - economic inequality
-  - protecionism
+  - protectionism
   - corruption
       - power abuse
-          - authoritarism
+          - authoritarianism
           - abusive manipulation of information
       - abundance -\> property
-  - religious fanatism
-  - ecodestruction
+  - religious fanaticism
+  - destruction of the ecosystem
   - lack of education
 
 - dilemma: strong liberalism reveals strong individualism and selfishness
   
-- problem: decision-making is slower than with competitive political systems
+- problem: decision-making is slower than with competitive political systems (time factor)
 
 
-# strategies against bugs
 
-- FOSS since it fights lack of education, property issues like added value,
-  
-- libraries since they fight lack of knowledge
-  
+
+# strategies against democracy bugs
+
+- freedom of information
+
 - better financed educational systems
+ 
+- [FOSS ](https://www.wikipedia.org/en/Free_and_open-source_software) since it tackles lack of education and property issues 
+<!-- like added value at the same time  -->
+
+
+
+
+# tactics against democracy bugs
+
+- [wikipedia.org][wikipedia.org]
+
+- libraries since they fight lack of knowledge
 
 </details>
 
@@ -299,7 +311,8 @@ which usually result in different levels of inequality of power
 
 
 # Resources
-  - [Online Library of Libertyl libertyfundorg](http://oll.libertyfund.org) (liberal perspective)
+  - [Project Gutenberg](http://www.gutenberg.org/wiki/Main_Page)
+  - [Online Library of Liberty](http://oll.libertyfund.org) (liberal perspective)
 
 
 
@@ -310,23 +323,25 @@ which usually result in different levels of inequality of power
 
 This work is licensed under [Creative Commons Attribution 4.0International License](http://creativecommons.org/licenses/by/4.0/)
 
+
+
+
 # TODO
 
 <details open>
   <summary></summary>
   
   - <span class="done0"></span>Content
-      - <span class="done0"></span>github-list
-          - <span class="done0"></span>complete list
-          - <span class="done0"></span>organise/sort list
-      - <span class="done0"></span>establish ranking criteria
+    - <span class="done0"></span>github-list
+      - <span class="done0"></span>complete list
+      - <span class="done0"></span>organise/sort list
+    - <span class="done0"></span>establish ranking criteria
   - <span class="done0"></span>Democracy Ecosystem
-      - <span class="done0"></span>Liberal Culture
+  - <span class="done0"></span>Liberal Culture
   - <span class="done0"></span>Layers
-      - <span class="done0"></span>recent layers:
-  - <span class="done0"></span>transparency-debate
+    - <span class="done0"></span>recent layers:
+      - <span class="done0"></span>transparency-debate
   - <span class="done0"></span>Definitions
-      - <span class="done0"></span>grades of democracy
-  - <span class="done0"></span>
+    - <span class="done0"></span>grades of democracy
   
 </details>
